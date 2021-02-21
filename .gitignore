@@ -1,0 +1,4 @@
+/node_modules
+
+# info about server (errors, warnings, etc)
+server.log
